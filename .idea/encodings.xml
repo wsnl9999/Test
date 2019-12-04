@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-common-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-config-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-config-1204" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-config2-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-feign-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-kakaka-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-kakka-21202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-provider-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-ribbon-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-turbine-1202" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/105-zuul-1202" charset="UTF-8" />
+  </component>
+</project>

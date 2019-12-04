@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="105-config-1202" />
+        <module name="105-kakka-21202" />
+        <module name="105-ribbon-1202" />
+        <module name="105-config2-1202" />
+        <module name="105-provider-1202" />
+        <module name="105-turbine-1202" />
+        <module name="105-zuul-1202" />
+        <module name="105-common-1202" />
+        <module name="105-kakaka-1202" />
+        <module name="105-feign-1202" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="105-config-1204" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="105-cloud-1202" options="-parameters" />
+      <module name="105-common-1202" options="-parameters" />
+      <module name="105-config-1202" options="-parameters" />
+      <module name="105-config-1204" options="-parameters" />
+      <module name="105-config2-1202" options="-parameters" />
+      <module name="105-feign-1202" options="-parameters" />
+      <module name="105-kakaka-1202" options="-parameters" />
+      <module name="105-kakka-21202" options="-parameters" />
+      <module name="105-provider-1202" options="-parameters" />
+      <module name="105-ribbon-1202" options="-parameters" />
+      <module name="105-turbine-1202" options="-parameters" />
+      <module name="105-zuul-1202" options="-parameters" />
+    </option>
+  </component>
+</project>
