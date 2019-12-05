@@ -10,11 +10,11 @@
         <module name="105-kakka-21202" />
         <module name="105-ribbon-1202" />
         <module name="105-config2-1202" />
-        <module name="105-provider-1202" />
         <module name="105-turbine-1202" />
         <module name="105-zuul-1202" />
         <module name="105-common-1202" />
         <module name="105-kakaka-1202" />
+        <module name="105-provider-1202" />
         <module name="105-feign-1202" />
       </profile>
     </annotationProcessing>
